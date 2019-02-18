@@ -1,0 +1,1 @@
+Sample Java Setup for Jenkins Git and Github
